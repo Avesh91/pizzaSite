@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meastropizinni-react-app/static/css/main.31ee7c14.css",
+    "main.js": "/meastropizinni-react-app/static/js/main.e584505d.js",
+    "static/js/787.2056b09c.chunk.js": "/meastropizinni-react-app/static/js/787.2056b09c.chunk.js",
+    "static/media/bg.jpg": "/meastropizinni-react-app/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "index.html": "/meastropizinni-react-app/index.html",
+    "main.31ee7c14.css.map": "/meastropizinni-react-app/static/css/main.31ee7c14.css.map",
+    "main.e584505d.js.map": "/meastropizinni-react-app/static/js/main.e584505d.js.map",
+    "787.2056b09c.chunk.js.map": "/meastropizinni-react-app/static/js/787.2056b09c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ee7c14.css",
+    "static/js/main.e584505d.js"
+  ]
+}
